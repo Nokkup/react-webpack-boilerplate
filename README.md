@@ -7,3 +7,5 @@ Install: ```yarn``` or ```npm install```
 Dev server: ```yarn start``` or ```npm run start```
 
 Builds: ```yarn dev```, ```yarn prod``` or ```npm run dev```, ```npm run prod```
+
+Tests: ```yarn test```, ```yarn test:watch```, ```yarn test:coverage```

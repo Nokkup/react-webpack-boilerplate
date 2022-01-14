@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App should render my component 1`] = `
+Array [
+  <div
+    className="container"
+  >
+    <p
+      className="container__text"
+    >
+      Hello World!
+    </p>
+  </div>,
+]
+`;
